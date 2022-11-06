@@ -1,0 +1,26 @@
+.baikal__paragraph-first{
+    max-width: 456px;
+    min-height: 116px;
+    margin: 0 0 26px;
+}
+@media screen and (min-width: 1124px){
+    .baikal__paragraph-first{
+        max-width: 484px;
+        min-height: 116px;
+        margin: 0 0 26px;
+    }
+}
+@media screen and (max-width: 984px){
+    .baikal__paragraph-first{
+        max-width: 352px;
+        min-height: 104px;
+        margin: 0 0 25px;
+    } 
+}
+@media screen and (max-width: 568px){
+    .baikal__paragraph-first{
+        max-width: 288px;
+        min-height: 156px;
+        margin: 0 0 25px;
+    }
+}

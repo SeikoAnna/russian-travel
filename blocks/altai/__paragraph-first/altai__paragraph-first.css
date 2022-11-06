@@ -1,0 +1,26 @@
+.altai__paragraph-first{
+    max-width: 456px;
+    min-height: 203px;
+    margin: 0 0 27px;
+}
+@media screen and (min-width: 1124px){
+    .altai__paragraph-first{
+        max-width: 486px;
+        min-height: 174px;
+        margin: 0 0 27px;
+    }  
+}
+@media screen and (max-width: 984px){
+    .altai__paragraph-first{
+        max-width: 352px;
+        min-height: 182px;
+        margin: 0 0 25px;
+    }  
+}
+@media screen and (max-width: 568px){
+    .altai__paragraph-first{
+        max-width: 288px;
+        min-height: 234px;
+        margin: 0 0 25px;
+    }
+}

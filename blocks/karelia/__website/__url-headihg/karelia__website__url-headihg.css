@@ -1,0 +1,47 @@
+.karelia__website__url-headihg{
+    max-width: 456px;
+    min-height: 12px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+    margin-bottom: 12px;
+}
+@media screen and (min-width: 1124px){
+    .karelia__website__url-headihg{
+        max-width: 456px;
+        min-height: 12px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        letter-spacing: 2px;
+        color: #AAAAAA;
+        margin-bottom: 12px;
+    }    
+}
+
+@media screen and (max-width: 984px){
+    .karelia__website__url-headihg{
+        max-width: 352px;
+        min-height: 12px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        letter-spacing: 2px;
+        color: #AAAAAA;
+        margin-bottom: 12px;
+    }   
+}
+@media screen and (max-width: 568px){
+    .karelia__website__url-headihg{
+        max-width: 288px;
+        min-height: 12px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        letter-spacing: 2px;
+        color: #AAAAAA;
+        margin-bottom: 12px;
+    }
+}
