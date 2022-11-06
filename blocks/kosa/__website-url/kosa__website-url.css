@@ -1,4 +1,4 @@
-.karelia__website__url-headihg{
+.kosa__website-url{
     max-width: 456px;
     min-height: 12px;
     font-weight: 400;
@@ -9,7 +9,7 @@
     margin-bottom: 12px;
 }
 @media screen and (min-width: 1124px){
-    .karelia__website__url-headihg{
+    .kosa__website-url{
         max-width: 456px;
         min-height: 12px;
         font-weight: 400;
@@ -18,11 +18,10 @@
         letter-spacing: 2px;
         color: #AAAAAA;
         margin-bottom: 12px;
-    }    
+    }
 }
-
 @media screen and (max-width: 984px){
-    .karelia__website__url-headihg{
+    .kosa__website-url{
         max-width: 352px;
         min-height: 12px;
         font-weight: 400;
@@ -34,7 +33,7 @@
     }   
 }
 @media screen and (max-width: 568px){
-    .karelia__website__url-headihg{
+    .kosa__website-url{
         max-width: 288px;
         min-height: 12px;
         font-weight: 400;

@@ -1,4 +1,4 @@
-.kolsky__website__url-headihg{
+.kolsky__website-url{
     max-width: 456px;
     min-height: 12px;
     font-weight: 400;
@@ -9,7 +9,7 @@
     margin-bottom: 12px;
 }
 @media screen and (min-width: 1124px){
-    .kolsky__website__url-headihg{
+    .kolsky__website-url{
         max-width: 456px;
         min-height: 12px;
         font-weight: 400;
@@ -21,7 +21,7 @@
     } 
 }
 @media screen and (max-width: 984px){
-    .kolsky__website__url-headihg{
+    .kolsky__website-url{
         max-width: 352px;
         min-height: 12px;
         font-weight: 400;
@@ -33,7 +33,7 @@
     }  
 }
 @media screen and (max-width: 568px){
-    .kolsky__website__url-headihg{
+    .kolsky__website-url{
         max-width: 288px;
         min-height: 12px;
         font-weight: 400;

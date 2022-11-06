@@ -5,8 +5,8 @@
 @import url(../blocks/altai/__paragraph-last/altai__paragraph-last.css);
 @import url(../blocks/altai/__paragraph/altai__paragraph.css);
 @import url(../blocks/altai/__title/altai__title.css);
-@import url(../blocks/altai/__website/__link/altai__website__link.css);
-@import url(../blocks/altai/__website/__url-headihg/altai__website__url-headihg.css);
+@import url(../blocks/altai/__website-link/altai__website-link.css);
+@import url(../blocks/altai/__website-url/altai__website-url.css);
 @import url(../blocks/altai/__website/altai__website.css);
 @import url(../blocks/altai/altai.css);
 @import url(../blocks/baikal/__image/baikal__image.css);
@@ -14,8 +14,8 @@
 @import url(../blocks/baikal/__paragraph-last/baikal__paragraph-last.css);
 @import url(../blocks/baikal/__paragraph/baikal__paragraph.css);
 @import url(../blocks/baikal/__title/baikal__title.css);
-@import url(../blocks/baikal/__website/__link/baikal__website__link.css);
-@import url(../blocks/baikal/__website/__url-headihg/baikal__website__url-headihg.css);
+@import url(../blocks/baikal/__website-link/baikal__website-link.css);
+@import url(../blocks/baikal/__website-url/baikal__website-url.css);
 @import url(../blocks/baikal/__website/baikal__website.css);
 @import url(../blocks/baikal/baikal.css);
 @import url(../blocks/cover/__background/cover__background.css);
@@ -32,8 +32,8 @@
 @import url(../blocks/footer/__link_weather/footer__link_weather.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang/_en/header__lang_en.css);
-@import url(../blocks/header/__lang/_ru/header__lang_ru.css);
+@import url(../blocks/header/__lang-en/header__lang-en.css);
+@import url(../blocks/header/__lang-ru/header__lang-ru.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/intro/__list/intro__list.css);
@@ -43,8 +43,8 @@
 @import url(../blocks/karelia/__image/karelia__image.css);
 @import url(../blocks/karelia/__paragraph/karelia__paragraph.css);
 @import url(../blocks/karelia/__title/karelia__title.css);
-@import url(../blocks/karelia/__website/__link/karelia__website__link.css);
-@import url(../blocks/karelia/__website/__url-headihg/karelia__website__url-headihg.css);
+@import url(../blocks/karelia/__website-link/karelia__website-link.css);
+@import url(../blocks/karelia/__website-url/karelia__website-url.css);
 @import url(../blocks/karelia/__website/karelia__website.css);
 @import url(../blocks/karelia/karelia.css);
 @import url(../blocks/kolsky/__image/kolsky__image.css);
@@ -52,8 +52,8 @@
 @import url(../blocks/kolsky/__paragraph-last/kolsky__paragraph-last.css);
 @import url(../blocks/kolsky/__paragraph/kolsky__paragraph.css);
 @import url(../blocks/kolsky/__title/kolsky__title.css);
-@import url(../blocks/kolsky/__website/__link/kolsky__website__link.css);
-@import url(../blocks/kolsky/__website/__url-headihg/kolsky__website__url-headihg.css);
+@import url(../blocks/kolsky/__website-link/kolsky__website-link.css);
+@import url(../blocks/kolsky/__website-url/kolsky__website-url.css);
 @import url(../blocks/kolsky/__website/kolsky__website.css);
 @import url(../blocks/kolsky/kolsky.css);
 @import url(../blocks/kosa/__image/kosa__image.css);
@@ -61,8 +61,8 @@
 @import url(../blocks/kosa/__paragraph-last/kosa__paragraph-last.css);
 @import url(../blocks/kosa/__paragraph/kosa__paragraph.css);
 @import url(../blocks/kosa/__title/kosa__title.css);
-@import url(../blocks/kosa/__website/__link/kosa__website__link.css);
-@import url(../blocks/kosa/__website/__url-headihg/kosa__website__url-headihg.css);
+@import url(../blocks/kosa/__website-link/kosa__website-link.css);
+@import url(../blocks/kosa/__website-url/kosa__website-url.css);
 @import url(../blocks/kosa/__website/kosa__website.css);
 @import url(../blocks/kosa/kosa.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
@@ -73,5 +73,5 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/place/__website/__link/place__website__link.css);
+@import url(../blocks/place/__website-link/place__website-link.css);
 @import url(../blocks/places/places.css);
