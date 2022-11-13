@@ -1,7 +1,7 @@
 .kosa__paragraph-last{
     max-width: 484px;
     min-height: 203px;
-    margin: 0
+    margin: 0;
 }
 @media screen and (max-width: 1124px){
     .kosa__paragraph-last{
