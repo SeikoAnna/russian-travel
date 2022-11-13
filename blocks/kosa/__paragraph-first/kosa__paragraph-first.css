@@ -1,13 +1,13 @@
 .kosa__paragraph-first{
-    max-width: 456px;
-    min-height: 174px;
-    margin: 0 0 27px;
+    max-width: 484px;
+    min-height: 145px;
+    margin: 0 0 26px;
 }
-@media screen and (min-width: 1124px){
+@media screen and (max-width: 1124px){
     .kosa__paragraph-first{
-        max-width: 484px;
-        min-height: 145px;
-        margin: 0 0 26px;
+        max-width: 456px;
+        min-height: 174px;
+        margin: 0 0 27px;
     }  
 }
 @media screen and (max-width: 984px){

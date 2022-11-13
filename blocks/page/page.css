@@ -1,34 +1,22 @@
 .page{
-    max-width: 1024px;
-    min-height: 6895px;
+    max-width: 1280px;
+    min-width: 320px;
+    min-height: 100vh;
     margin: 0 auto;
     font-family: Inter;
     font-style: normal;
     background: #2A2C2F;
     color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 28px 0 24px;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
 }   
-@media screen and (min-width: 1124px){
-    .page{
-        max-width: 1280px;
-        min-height: 6875px;
-        margin: 0 auto;
-    }
-}
-@media screen and (max-width: 984px){
-    .page{
-        max-width: 768px;
-        min-height: 6855px;
-        margin: 0 auto;
-    }    
-}
 @media screen and (max-width: 568px){
     .page{
-        max-width: 320px;
-        min-height: 10023px;
-        margin: 0 auto;
+        padding: 16px 0 24px;
     }
 }

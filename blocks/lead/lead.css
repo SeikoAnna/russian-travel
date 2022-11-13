@@ -1,15 +1,14 @@
 .lead{
-    max-width: 928px;
-    min-height: 962px;
+    
+    max-width: 984px;
+    min-height: 1005px;
     margin: 0 auto 92px;
     flex-direction: column;
 }
-@media screen and (min-width: 1124px){
+@media screen and (max-width: 1124px){
     .lead{
-        max-width: 984px;
-        min-height: 1005px;
-        margin: 0 auto 92px;
-        flex-direction: column;
+        max-width: 928px;
+        min-height: 962px;
     }
 }
 @media screen and (max-width: 984px){
@@ -17,7 +16,6 @@
         max-width: 768px;
         min-height: 862px;
         margin: 0 auto 88px;
-        flex-direction: column;
     }
 }
 @media screen and (max-width: 568px){
@@ -25,6 +23,5 @@
         max-width: 320px;
         min-height: 406px;
         margin: 0 auto 64px;
-        flex-direction: column;
     }
 }

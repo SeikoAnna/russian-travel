@@ -5,30 +5,15 @@
     max-width: 456px;
     min-height: 46px;
 }
-@media screen and (min-width: 1124px){
-    .kolsky__website{
-        display: flex;
-        justify-content:flex-end;
-        flex-direction: column;
-        max-width: 456px;
-        min-height: 46px;
-    }
-}
 @media screen and (max-width: 984px){
     .kolsky__website{
-        display: flex;
-        justify-content:flex-end;
-        flex-direction: column;
         max-width: 352px;
-        min-height: 46px;
     }  
 }
-@media screen and (max-width: 568px){
+@media screen and (max-width: 695px){
     .kolsky__website{
-        display: flex;
-        justify-content:flex-end;
-        flex-direction: column;
-        width: 288px;
-        min-height: 46px;
+        margin-left: 16px;
+        margin-right: auto;
+        max-width: 288px;
     }
 }

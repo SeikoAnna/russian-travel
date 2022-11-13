@@ -1,26 +1,23 @@
 .altai__paragraph-last{
-    max-width: 456px;
+    max-width: 484px;
     min-height: 174px;
     margin: 0;
 }
-@media screen and (min-width: 1124px){
+@media screen and (max-width: 1124px){
     .altai__paragraph-last{
-        max-width: 484px;
+        max-width: 456px;
         min-height: 174px;
-        margin: 0;
     }  
 }
 @media screen and (max-width: 984px){
     .altai__paragraph-last{
         max-width: 352px;
         min-height: 182px;
-        margin: 0;
     }     
 }
 @media screen and (max-width: 568px){
     .altai__paragraph-last{
         max-width: 288px;
         min-height: 234px;
-        margin: 0;
     }  
 }

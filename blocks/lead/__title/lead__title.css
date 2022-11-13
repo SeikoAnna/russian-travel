@@ -8,39 +8,18 @@
     line-height: 100px;
     text-align: center;
  }
- @media screen and (min-width: 1124px){
+ @media screen and (max-width: 677px){
     .lead__title{
-        max-width: 720px;
-        min-height: 200px;
-        margin: 0 auto 32px;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 96px;
-        line-height: 100px;
-        text-align: center;
-     }
-}
-@media screen and (max-width: 984px){
-    .lead__title{
-        max-width: 720px;
-        min-height: 200px;
-        margin: 0 auto 32px;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 96px;
-        line-height: 100px;
-        text-align: center;
-     }
-}
+        font-size: 80px;
+    }
+ }
+
 @media screen and (max-width: 568px){
     .lead__title{
         max-width: 288px;
         min-height: 88px;
         margin: 0 auto 16px;
-        font-style: normal;
-        font-weight: 900;
         font-size: 40px;
         line-height: 44px;
-        text-align: center;
      }  
 }

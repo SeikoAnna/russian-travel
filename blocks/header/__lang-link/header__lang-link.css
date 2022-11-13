@@ -1,47 +1,25 @@
 .header__lang-link{
+    display: flex;
     position: absolute;
-    max-width: 30px;
+    max-width: 88px;
     min-height: 28px;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
     color: #FFFFFF;
-}
-@media screen and (min-width: 1124px){
-    .header__lang-link{
-        position: absolute;
-        max-width: 30px;
-        min-height: 28px;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 24px;
-        line-height: 28px;
-        color: #FFFFFF;
-    }  
-}
-@media screen and (max-width: 984px){
-    .header__lang-link{
-        position: absolute;
-        max-width: 30px;
-        min-height: 28px;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 24px;
-        line-height: 28px;
-        color: #FFFFFF;
-    }      
+    right: 0;
+    top: 18px;
+    bottom: 6px;
 }
 @media screen and (max-width: 568px){
     .header__lang-link{
-        position: absolute;
-        max-width: 22px;
+        max-width: 62px;
         min-height: 20px;
-        font-style: normal;
-        font-weight: 400;
         font-size: 18px;
         line-height: 20px;
-        color: #FFFFFF;
+        top: 14px;
+        bottom: 8px;
     }  
 }
 .header__lang-link:hover{

@@ -1,22 +1,13 @@
 .header__lang-ru{
+    max-width: 30px;
+    min-height: 28px;
+    color: white;
     text-decoration-line: underline;
-    margin: 18px 47px 6px 851px;
-}
-@media screen and (min-width: 1124px){
-    .header__lang-ru{
-        text-decoration-line: underline;
-        margin: 18px 47px 6px 1107px;
-    }
-}
-@media screen and (max-width: 984px){
-    .header__lang-ru{
-        text-decoration-line: underline;
-        margin: 18px 47px 6px 643px;
-    }
+ 
 }
 @media screen and (max-width: 568px){
     .header__lang-ru{
-        text-decoration-line: underline;
-        margin: 14px 40px 8px 226px;
+        max-width: 22px;
+        min-height: 20px;
     }
 }

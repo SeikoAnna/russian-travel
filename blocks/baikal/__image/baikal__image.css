@@ -1,11 +1,11 @@
 .baikal__image{
-    max-width: 440px;
-    min-height: 440px;
+    max-width: 460px;
+    min-height: 460px;
 }
-@media screen and (min-width: 1124px){
+@media screen and (max-width: 1124px){
     .baikal__image{
-        max-width: 460px;
-        min-height: 460px;
+        max-width: 440px;
+        min-height: 440px;
     }
 }
 @media screen and (max-width: 984px){
@@ -14,7 +14,7 @@
         min-height: 340px;
     }   
 }
-@media screen and (max-width: 568px){
+@media screen and (max-width: 695px){
     .baikal__image{
         max-width: 320px;
         min-height: 320px;
