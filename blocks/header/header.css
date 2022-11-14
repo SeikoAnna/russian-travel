@@ -3,9 +3,8 @@
     max-width: 1184px;
     min-height: 52px;
     margin: 0 48px 56px;
-    position: relative;
+    justify-content: space-between;
     box-sizing: border-box;
-    align-items:flex-end;
 }
 @media screen and (max-width: 1124px){
     .header{

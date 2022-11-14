@@ -4,7 +4,7 @@
     margin: 0 48px 24px;
     font-weight: 400;
     display: flex;
-    position: relative;
+    justify-content: space-between;
     box-sizing: border-box;
 }
 @media screen and (max-width: 1124px){
@@ -18,7 +18,7 @@
         margin: 0 24px 24px;
     }
 }
-@media screen and (max-width: 650px){
+@media screen and (max-width: 680px){
     .footer{
         display: flex;
         max-width: 186px;

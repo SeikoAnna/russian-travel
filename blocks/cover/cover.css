@@ -1,5 +1,5 @@
 .cover{
-    max-width: 1184px;
+    width: 100%;
     min-height: 740px;
     background-size: 100%;
     z-index: -1;
@@ -11,7 +11,7 @@
 }
 @media screen and (max-width: 1124px){
     .cover{
-        max-width: 1024px;
+        
         min-height: 640px;
         background-size: 100%;
         z-index: -1;

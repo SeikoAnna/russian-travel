@@ -1,6 +1,6 @@
 .header__lang-link{
     display: flex;
-    position: absolute;
+    padding-top: 18px;
     max-width: 88px;
     min-height: 28px;
     font-style: normal;
@@ -8,9 +8,6 @@
     font-size: 24px;
     line-height: 28px;
     color: #FFFFFF;
-    right: 0;
-    top: 18px;
-    bottom: 6px;
 }
 @media screen and (max-width: 568px){
     .header__lang-link{

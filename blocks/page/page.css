@@ -14,9 +14,13 @@
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
+    outline: 1px solid red;
 }   
 @media screen and (max-width: 568px){
     .page{
         padding: 16px 0 24px;
     }
+}
+*{
+  outline: 1px solid white;
 }
