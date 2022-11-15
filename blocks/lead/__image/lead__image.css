@@ -1,6 +1,7 @@
 .lead__image{
     max-width: 984px;
     min-height: 615px;
+    object-fit: cover;
 }
 @media screen and (max-width: 1124px){
     .lead__image{
@@ -10,13 +11,11 @@
 }
 @media screen and (max-width: 984px){
     .lead__image{
-        max-width: 100%;
         min-height: 480px;
     }
 }
 @media screen and (max-width: 568px){
     .lead__image{
-        max-width: 100%;
         min-height: 200px;
     }
 }

@@ -1,17 +1,14 @@
 .footer__copyright{
     max-width: 186px;
-    min-height: 16px;
+    line-height: 16px;
     font-size: 14px;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: auto;
+    margin: 0;
 }
 @media screen and (max-width: 680px){
     .footer__copyright{
         position: static;
         max-width: 186px;
-        min-height: 14px;
+        line-height: 14px;
         margin: 0;
     }
 }

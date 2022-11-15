@@ -1,6 +1,5 @@
 .places{
     max-width: 984px;
-    min-height: 3392px;
     margin: 0 auto 0;
     display: grid;
     grid-template-rows: 660px 584px 584px 660px 584px;
@@ -9,14 +8,12 @@
 @media screen and (max-width: 1124px){
     .places{
         max-width: 928px;
-        min-height: 3292px;
         grid-template-rows: 640px 564px 564px 640px 564px;
     } 
 }
 @media screen and (max-width: 984px){
     .places{
         max-width: 720px;
-        min-height: 2808px;
         gap: 73px;
         grid-template-rows: 581px 535px 483px 434px 484px;
     }    
@@ -25,7 +22,6 @@
     .places{
         justify-content: center;
         max-width: 928px;
-        min-height: 3292px;
         gap: 50px;
         grid-template-rows: 1042px 1016px 990px 964px 965px;
     }

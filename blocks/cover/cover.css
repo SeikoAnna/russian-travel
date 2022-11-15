@@ -1,9 +1,9 @@
 .cover{
     width: 100%;
+    max-width: 1280px;
     min-height: 740px;
-    background-size: 100%;
     z-index: -1;
-    margin: 92px auto 0;
+    margin: 92px 0 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,41 +11,22 @@
 }
 @media screen and (max-width: 1124px){
     .cover{
-        
         min-height: 640px;
-        background-size: 100%;
-        z-index: -1;
         margin: 92px auto 0;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
     }
 }
 @media screen and (max-width: 984px){
     .cover{
         max-width: 768px;
         min-height: 480px;
-        background-size: 100%;
-        z-index: -1;
         margin: 88px auto 0;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
     }
 }
 @media screen and (max-width: 568px){
     .cover{
         max-width: 320px;
         min-height: 200px;
-        background-size: 100%;
-        z-index: -1;
         margin: 66px auto 0;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
     }  
 }
    
