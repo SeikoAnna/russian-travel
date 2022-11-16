@@ -1,6 +1,5 @@
 .cover__subtitle{
     max-width: 360px;
-    min-height: 66px;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
@@ -17,7 +16,6 @@
 @media screen and (max-width: 568px){
     .cover__subtitle{
         max-width: none;
-        min-height: 48px;
         font-size: 14px;
         line-height: 16px;
         margin-top: 16px;
