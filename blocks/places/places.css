@@ -15,7 +15,7 @@
     .places{
         max-width: 720px;
         gap: 73px;
-        grid-template-rows: 581px 535px 483px 434px 484px;
+        grid-template-rows: 535px 535px 483px 434px 484px;
     }    
 }
 @media screen and (max-width: 695px){
